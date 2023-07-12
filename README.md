@@ -117,6 +117,6 @@ We would like to express our gratitude to [Acknowledgement 1] and [Acknowledgeme
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: We recommend using the [MIT license](https://choosealicense.com/licenses/mit/), but you can choose any other license that suits your needs._

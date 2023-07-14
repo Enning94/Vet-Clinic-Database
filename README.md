@@ -57,12 +57,6 @@ In this project, you will use a relational database to create the initial data s
 
 - Create 'animals' table with columns: id, name, date_of_birth, escape_attempts, neutered, weight_kg
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](replace-with-your-deployment-URL)
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>

@@ -50,7 +50,6 @@ CREATE TABLE specializations (
 
 -- Create a "join table" called visits 
 CREATE TABLE visits (
-  id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
   animal_id INT REFERENCES animals (id),
   vet_id INT REFERENCES vets (id),
   visit_date DATE

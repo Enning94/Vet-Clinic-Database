@@ -55,4 +55,6 @@ CREATE TABLE visits (
   visit_date DATE
 );
 
-
+-- Review changes
+ ALTER TABLE visits
+ DROP COLUMN id;
